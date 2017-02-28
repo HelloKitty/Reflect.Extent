@@ -1,1 +1,1 @@
-dotnet pack src/Reflect.Extent/ -c Release
+dotnet pack src/Reflect.Extent/Reflect.Extent.csproj -c Release
