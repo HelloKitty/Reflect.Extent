@@ -4,7 +4,7 @@ Reflect.Extent is an open-source .NETSTANDARD, .NETCORE, and .NETFRAMEWORK compa
 
 ## Builds
 
-Available on a Nuget Feed: TODO
+Available on a Nuget: https://www.nuget.org/packages/Reflect.Extent
 
 ##Tests
 
